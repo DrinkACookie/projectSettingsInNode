@@ -1,0 +1,2 @@
+# projectSettingsInNode
+projectSettingsInNode
